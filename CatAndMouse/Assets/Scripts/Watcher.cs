@@ -4,7 +4,7 @@ using UnityEngine;
 
 /**
  * 
- * TODO - switch from boolean states to an enum AQUIRED|LOOKING
+ * TODO - switch from boolean states to an enum AQUIRED|LOOKING!!
  */ 
 public class Watcher : MonoBehaviour
 {

@@ -4,7 +4,7 @@ using UnityEngine;
 
 /**
  * 
- * TODO - switch from boolean states to an enum AQUIRED|LOOKING
+ * TODO - switch from boolean states to an enum AQUIRED|LOOKING?
  */ 
 public class Watcher : MonoBehaviour
 {
@@ -18,7 +18,7 @@ public class Watcher : MonoBehaviour
     public Vector3 playerPosition; // Previous player position
 
 
-    // Keep eyes on target, or starts looking
+    // Keep eyes on target, or starts looking!!
     void Update()
     {
         if (CanSeeTarget())
